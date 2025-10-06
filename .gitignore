@@ -1,0 +1,67 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+venv/
+env/
+ENV/
+.python-version
+
+# Build/packaging
+build/
+dist/
+.eggs/
+*.egg-info/
+
+# Caches
+.cache/
+.pytest_cache/
+.mypy_cache/
+.pytype/
+.ruff_cache/
+.hypothesis/
+.tox/
+.coverage*
+htmlcov/
+
+# Editors/OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Project secrets/config
+.env
+.env.*
+!.env.example
+backend/gcp-key.json
+reel-automation-using-vertex-*.json
+*credentials*.json
+*service-account*.json
+*key*.json
+
+# Generated media/artifacts
+videos/
+final_reel.mp4
+characters/*.png
+
+# Story artifacts (keep example only)
+story.json
+backend/story.json
+
+# Derived frames
+*.last_frame.png
+
+# Windows temp locks
+~$*
