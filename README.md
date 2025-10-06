@@ -148,10 +148,11 @@ python backend/main.py
 
 ## 🔮 Future Improvements
 
-* AI soundtrack and voice sync
-* Parallel video generation
-* Subtitles and captions
-* Auto-upload to YouTube Shorts / Instagram Reels
+1. **Add multiple characters** – The system can be expanded to include more than one character in the story, allowing scenes with interactions, emotions, and dialogue between characters.
+2. **Change visual style** – Users can choose different art styles such as anime, cartoon, realistic, or cinematic before generating images to match the mood or theme.
+3. **Add background music** – Background music or emotional soundtracks can be automatically generated and added to the final video for better storytelling.
+4. **Build a web or app interface** – A simple web or mobile interface can be created so users can easily enter a theme and generate their reel without running any code.
+5. **Better error recovery** – The system can include automatic retry, progress saving, and resume options so that if an error occurs, it continues from the last successful step instead of restarting.
 
 ---
 
