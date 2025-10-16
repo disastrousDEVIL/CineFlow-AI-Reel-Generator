@@ -22,6 +22,13 @@ It combines **LLMs (for storytelling)**, **Imagen (for character image generatio
 🎭 Theme: *“Overcoming heartbreak and rediscovering purpose”*
 
 ---
+### 🧩 System Architecture
+
+<p align="center">
+  <img src="https://github.com/disastrousDEVIL/CineFlow-AI-Reel-Generator/blob/main/docs/uml_diagram.png" alt="CineFlow UML Diagram" width="800"/>
+</p>
+
+> The diagram shows CineFlow’s end-to-end pipeline — from text theme input, through story and character generation, to final stitched reel output using Vertex AI (Imagen + Veo).
 
 ## 🚀 Quick Start
 
