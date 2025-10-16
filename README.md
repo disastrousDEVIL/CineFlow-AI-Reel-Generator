@@ -17,9 +17,8 @@ It combines **LLMs (for storytelling)**, **Imagen (for character image generatio
 * 🎬 Automatic stitching into a final reel
 * ✅ 9:16 portrait format for Reels, TikTok, and Shorts
 
-**Latest Output:**
-🎞️ `final_reel.mp4` (46s, 32 MB)
-🎭 Theme: *“Overcoming heartbreak and rediscovering purpose”*
+🎞️ **Latest Output:** `final_reel.mp4` (46s, 32 MB)   
+📂 **Watch:** [🎥 Complete CineFlow reel collection on Google Drive](https://drive.google.com/drive/folders/1W3RvEfzvdiPyl2mBSuAeFdNgcyFQeCX0?usp=sharing)
 
 ---
 ### 🧩 System Architecture
